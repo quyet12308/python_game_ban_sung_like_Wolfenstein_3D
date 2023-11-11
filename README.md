@@ -11,7 +11,18 @@
 ```cmd
 pip install -r requirements.txt
 ```
+- B3: chạy dự án bằng bệnh sau (mở thư mục dự án lên ):
+```cmd
+python main.py
+```
+## cách chơi:
+- phím w để tiến lên phía trước
+- phím a để sang trái
+- phím d để sang phải 
+- phím s để lùi lại
+- di chuyển chuột để chuyển góc quay nhân vật ( trái và phải )
+- kích chuột trái để bắn
 
-Control: 'WASD' + mouse
+## Anhr demo
 
 ![doom](/sreenshots/0.jpg)
